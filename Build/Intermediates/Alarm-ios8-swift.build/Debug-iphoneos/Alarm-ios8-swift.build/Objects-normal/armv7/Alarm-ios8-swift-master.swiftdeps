@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "f4a28bddb9761824e06a1698f24c91a0"
+build_time: [536844837, 631140000]
+inputs:
+  "/Users/samyotech/Downloads/Alarm-ios-swift-swift-3.0/IOS/Alarm/AlarmAddEditViewController.swift": [536844821, 0]
+  "/Users/samyotech/Downloads/Alarm-ios-swift-swift-3.0/IOS/Alarm/Scheduler.swift": [533417408, 0]
+  "/Users/samyotech/Downloads/Alarm-ios-swift-swift-3.0/IOS/Alarm/MediaTableViewController.swift": [533417408, 0]
+  "/Users/samyotech/Downloads/Alarm-ios-swift-swift-3.0/IOS/Alarm/GlobalParams.swift": [533417408, 0]
+  "/Users/samyotech/Downloads/Alarm-ios-swift-swift-3.0/IOS/Alarm/AppDelegate.swift": [533417408, 0]
+  "/Users/samyotech/Downloads/Alarm-ios-swift-swift-3.0/IOS/Alarm/Alarm.swift": [533417408, 0]
+  "/Users/samyotech/Downloads/Alarm-ios-swift-swift-3.0/IOS/Alarm/LabelEditViewController.swift": [533417408, 0]
+  "/Users/samyotech/Downloads/Alarm-ios-swift-swift-3.0/IOS/Alarm/MainAlarmViewController.swift": [536843050, 0]
+  "/Users/samyotech/Downloads/Alarm-ios-swift-swift-3.0/IOS/Alarm/WeekdaysViewController.swift": [533417408, 0]
